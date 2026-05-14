@@ -28,11 +28,11 @@ JavaScript (ES6+): To handle the core game logic, event listeners, and UI update
 
 ## 📸 Screenshots
 
+![text](Screenshots/Start.png)
+![text](Screenshots/Questions.png)
 ![text](Screenshots/CorrectAnswer.png)
 ![text](Screenshots/IncorrectAnswer.png)
-![text](Screenshots/Questions.png)
 ![text](Screenshots/Result.png)
-![text](Screenshots/Start.png)
 
 ## 💡 Personal Improvements
 
