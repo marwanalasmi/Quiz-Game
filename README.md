@@ -1,5 +1,7 @@
 # 🧠 Quiz Game - Interactive Web App
 
+> 🚀 **Live Demo:** [Click here to play the game](https://marwanalasmi.github.io/Quiz-Game/)
+
 This project is a dynamic, interactive quiz game built as part of the 19 Web Dev Projects – HTML, CSS, JavaScript Tutorial by freeCodeCamp.org, created by Burak Orkmez.
 
 ## 📝 Project Overview
